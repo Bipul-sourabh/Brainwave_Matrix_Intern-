@@ -15,6 +15,8 @@ This project focuses on analyzing the sales data of Atlique Hardware, a company 
 
 ## **Dashboard**  
 The dashboard includes metrics such as revenue trends, market performance, and top customers/products. It visually presents the data to help decision-makers spot key areas to focus on.
+![image](https://github.com/user-attachments/assets/93b3f056-890d-4122-8d62-9b8147677fb8)
+
 
 ## **Project Insights**  
 - **Market Trends**: North and West markets are underperforming.  
