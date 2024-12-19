@@ -1,4 +1,4 @@
-Project Overview
+## Project Overview
 This project focuses on analyzing the sales data of Atlique Hardware, a company facing declining sales. Using Power BI, I cleaned, transformed, and visualized the data to provide insights and recommendations. The final dashboard helps management make informed decisions to boost sales and revenue.
 
 ## **Key Performance Indicators (KPIs)**  
