@@ -21,7 +21,7 @@ The dashboard includes metrics such as revenue trends, market performance, and t
 
 ## **Project Insights**  
 - **Market Trends**: North and West markets are underperforming.  
-- **Product Performance**: Product Y's demand has dropped significantly.  
+- **Product Performance**: Some products demand has dropped significantly.  
 - **Customer Insights**: Top 5 customers account for a large portion of revenue.
 
 ## **Final Conclusion**  
